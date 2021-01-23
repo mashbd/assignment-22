@@ -1,0 +1,26 @@
+.table-one{
+    border-collapse: collapse;
+    border: 1px solid grey;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table-one th{
+    background-color:green;
+    color: #fff;
+    padding: 10px;
+}
+.table-one td{
+    padding: 10px;
+}
+.table-one tr:hover{
+    background-color: #ccc;
+}
+.table-one td{
+    
+}
+.table-one tr:nth-child(odd){
+    background-color: aquamarine;
+
+    
+
+}
